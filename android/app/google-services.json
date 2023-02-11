@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210316700115",
+    "project_id": "cicd-guide-01",
+    "storage_bucket": "cicd-guide-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210316700115:android:801ad7b549ed9a40426726",
+        "android_client_info": {
+          "package_name": "com.example.cicd_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210316700115-ha8v61l92uv0to786j4c4dfogo8nlu9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpseaVPcBeDenG0heCzQf0PU_TwGCq9Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210316700115-ha8v61l92uv0to786j4c4dfogo8nlu9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
