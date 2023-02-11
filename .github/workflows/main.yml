@@ -9,7 +9,7 @@ on:  #events (push and pull_request)
 
 jobs:   #here we specify the jobs - We could have multiple jobs
   build:  #name it something meaningful 
-    runs-on: macos-latest   #runner: select a machine to use
+    runs-on: ubuntu-latest   #runner: select a machine to use
 
     steps:
       - uses: actions/checkout@v2

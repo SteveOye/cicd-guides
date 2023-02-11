@@ -9,8 +9,8 @@
 .history
 .svn/
 migrate_working_dir/
-/.github/workflows/push_ap.txt
-/lib/firebase_options.dart
+.github/workflows/push_ap.txt
+lib/firebase_options.dart
 
 # IntelliJ related
 *.iml
